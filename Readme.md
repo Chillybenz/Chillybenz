@@ -4,38 +4,6 @@
   <meta charset="UTF-8">
   <title>Aristotle Koinakis</title>
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      padding: 20px;
-      font-family: 'Fira Code', monospace;
-      background: linear-gradient(145deg, #1e1e2f, #2b2b3c);
-      color: #e0e0e0;
-      text-align: center;
-    }
-    h1, h2 {
-      color: #ffcc00;
-    }
-    a {
-      text-decoration: none;
-    }
-    .icon-grid {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 16px;
-      margin-top: 20px;
-    }
-    .icon-grid img {
-      transition: transform 0.3s ease;
-    }
-    .icon-grid img:hover {
-      transform: scale(1.2);
-    }
-    .gif-container {
-      margin-top: 30px;
-    }
-  </style>
 </head>
 <body>
 
