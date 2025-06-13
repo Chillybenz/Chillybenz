@@ -26,15 +26,8 @@
 
 <hr width="40%">
 
-<h3 align="left">📊 My GitHub Stats</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristotle-koinakis&layout=compact&theme=dark" alt="Top Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=aristotle-koinakis&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 <br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aristotle-koinakis&theme=dark" alt="Streak Stats"></p>
 
 <hr>
 
